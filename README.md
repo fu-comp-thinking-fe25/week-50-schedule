@@ -21,10 +21,13 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 
 ### Inspelningar
 
+* 01 - [Kursintro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQD6E0j3qTOQR50Ogwe7vqTFATec6-kKLYKZseKwfy18rL4?e=FgdUV5)
+* 02 - [Programmering och de datalogiska delprocesserna](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQDpKQQLZN7VTYn0ACgAPoQdAXG6u20C9a0_h2VxEbWDCbI?e=b18zIB)
 
 
 ### Lektionskod
 
+* [Figjam Monsterjakt, 8 dec](https://www.figma.com/board/ryxlqwCvWtux7wSwGhCCix/Untitled?t=0ffwduKkV6FCxDQe-1)
 
 
 ### Länkar
