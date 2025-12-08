@@ -16,8 +16,8 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 
 ### Presentationer
 
-01 - [Kursintro](https://docs.google.com/presentation/d/1c0rLRxoFOANuLxQQ0pcGkBB_o10LaAet/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
-02 - [Programmering och de datalogiska delprocesserna](https://docs.google.com/presentation/d/1eQATu7idgI-_PuCheRr6vO86oCulnw-U/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 01 - [Kursintro](https://docs.google.com/presentation/d/1c0rLRxoFOANuLxQQ0pcGkBB_o10LaAet/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 02 - [Programmering och de datalogiska delprocesserna](https://docs.google.com/presentation/d/1eQATu7idgI-_PuCheRr6vO86oCulnw-U/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelningar
 
