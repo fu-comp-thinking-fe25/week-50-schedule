@@ -25,6 +25,8 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 * 01 - [Kursintro](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQD6E0j3qTOQR50Ogwe7vqTFATec6-kKLYKZseKwfy18rL4?e=FgdUV5)
 * 02 - [Programmering och de datalogiska delprocesserna](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQDpKQQLZN7VTYn0ACgAPoQdAXG6u20C9a0_h2VxEbWDCbI?e=b18zIB)
 * 03 - [Pseudokod, del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQDiCxPoLxOpQK5AImuuZ1WhAR-N5qEapE5sk7cbtc0aygM?e=IAZKh1)
+* 04 - [Pseudokod, del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBy54qbg6ocTJo4vFraMTmcAQx0LoOLDAMjzEAUoqWDTi0?e=9UrkOb)
+* 05 - [Genomgång examination](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQAg-EJAi2dITqlPYdzzRwWgAdHS6xjzQJnR5nGDt0YIzG4?e=M2ehyJ)
 
 
 ### Lektionskod
