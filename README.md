@@ -28,6 +28,7 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 ### Lektionskod
 
 * [Figjam Monsterjakt, 8 dec](https://www.figma.com/board/ryxlqwCvWtux7wSwGhCCix/Untitled?t=0ffwduKkV6FCxDQe-1)
+* [Pseudo Code, 15 dec](https://github.com/fu-comp-thinking-fe25/week-51-lecture-15-dec)
 
 
 ### Länkar
