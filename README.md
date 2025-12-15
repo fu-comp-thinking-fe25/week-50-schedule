@@ -18,6 +18,7 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 
 * 01 - [Kursintro](https://docs.google.com/presentation/d/1u0BxPtGFwUljgMfC1EiaU_uGNaZJ4cJA/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * 02 - [Programmering och de datalogiska delprocesserna](https://docs.google.com/presentation/d/1eQATu7idgI-_PuCheRr6vO86oCulnw-U/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 03 - [Programmering och Pseudokod](https://docs.google.com/presentation/d/1YRB0YGFh2pbq1YueYNIDRPGUtSa-3e--/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelningar
 
@@ -28,7 +29,7 @@ Vi kommer inledningsvis titta på begreppet programmering, vad det innebär, sam
 ### Lektionskod
 
 * [Figjam Monsterjakt, 8 dec](https://www.figma.com/board/ryxlqwCvWtux7wSwGhCCix/Untitled?t=0ffwduKkV6FCxDQe-1)
-* [Pseudo Code, 15 dec](https://github.com/fu-comp-thinking-fe25/week-51-lecture-15-dec)
+* [Pseudokod, 15 dec](https://github.com/fu-comp-thinking-fe25/week-51-lecture-15-dec)
 
 
 ### Länkar
